@@ -63,9 +63,16 @@ h1{
 p{
     padding: 1rem 3rem 0rem 3rem;
     color: var(--White2);
+    font-weight: 300;
 }
 
 div > p{
     padding: 0rem;
     font-family: var(--font2);
+}
+
+strong{
+    color: var(--Purple500);
+    font-size: 2.4rem;
+    font-weight: 600;
 }
