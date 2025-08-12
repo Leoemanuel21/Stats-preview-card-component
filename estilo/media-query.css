@@ -15,4 +15,27 @@
         flex-flow: row-reverse nowrap;
         align-items: center;
     }
+
+    picture{
+        width: 50%;
+    }
+
+    img{
+        border-top-left-radius: 0rem;
+        border-top-right-radius: 1rem;
+        border-bottom-right-radius: 1rem;
+    }
+
+    article{
+        width: 50%;
+    }
+
+    h1{
+        font-size: 3.6rem;
+    }
+
+    strong{
+        font-size: 3.6rem;
+    }
+
 }
