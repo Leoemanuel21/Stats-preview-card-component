@@ -42,7 +42,6 @@ main{
     background-color: var(--Blue-950);
     width: 90vw;
     margin: 6rem;
-    padding-bottom: 3rem;
     border-radius: 1rem;
     display: flex;
     flex-flow: column nowrap;
@@ -67,7 +66,7 @@ p{
 }
 
 div > p{
-    padding: 0rem;
+    padding: 0rem 0rem 2rem 0rem;
     font-family: var(--font2);
 }
 
